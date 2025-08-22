@@ -1,2 +1,2 @@
-# Moodfood-app
-Smart Food Guidance App with Streamlit
+#Emobite-app
+streamlit food mood nutrition health diet indian-food recommendation emotion
