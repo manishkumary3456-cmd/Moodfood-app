@@ -3,7 +3,7 @@ import random
 
 # ---------------- Page Config ----------------
 st.set_page_config(
-    page_title="MoodFood - Mood Based Food Suggestions (50+ per mood & health)",
+    page_title="Emobite - Mood Based Food Suggestions (50+ per mood & health)",
     page_icon="🍲",
     layout="centered"
 )
@@ -463,6 +463,7 @@ st.markdown("""
 # Example Footer
 st.markdown("""
 <div class="footer-box">
-    🌟 Thanks for using <b>MoodFood App</b> • Stay Healthy & Happy 💙
+    🌟 Thanks for using <b>Emobite App</b> • Stay Healthy & Happy 💙
 </div>
 """, unsafe_allow_html=True)
+
